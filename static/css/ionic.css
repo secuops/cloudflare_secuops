@@ -8833,7 +8833,7 @@ progress {
         color: #fff; }
   .button.button-dark {
     border-color: transparent;
-    background-color: #444;
+    background-color: #000;
     color: #fff; }
     .button.button-dark:hover {
       color: #fff;
